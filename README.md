@@ -1,4 +1,6 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_oGkgnmFcLkTBvqo2tpssmsXYO7hpcQmVablom5VzGeKkkC&s ">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_oGkgnmFcLkTBvqo2tpssmsXYO7hpcQmVablom5VzGeKkkC&s " style="display: block;
+    margin-left: auto;
+    margin-right: auto;">
 
 # Malibu Quotes
 
