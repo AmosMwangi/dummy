@@ -1,4 +1,4 @@
-![alt text]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_oGkgnmFcLkTBvqo2tpssmsXYO7hpcQmVablom5VzGeKkkC&s "Description goes here")
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_oGkgnmFcLkTBvqo2tpssmsXYO7hpcQmVablom5VzGeKkkC&s ">
 
 # Malibu Quotes
 
